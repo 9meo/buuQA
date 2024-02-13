@@ -14,6 +14,13 @@ Question Answering systems are a pivotal component of Natural Language Processin
 - **Tools and Libraries**: An overview of essential NLP tools and libraries for building QA systems.
 - **Best Practices**: Tips and tricks for optimizing your QA models.
 
+## Examples
+- Rule-based Chatbot [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/code/Rule_based_Chatbot.ipynb)]
+- Thai rule-based Chatbot [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/code/Thai_rule_based_chatbot.ipynb)]
+- Machine Learning Chatbot [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/code/ML_Chatbot.ipynb)]
+- Machine Reading Comprehension [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/code/Question_Answer_using_pipeline.ipynb)]
+- Generative Chatbot [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/code/Generative_AI.ipynb)]
+
 ## Getting Started
 
 To get started with this repository, clone it to your local machine using the following command:
